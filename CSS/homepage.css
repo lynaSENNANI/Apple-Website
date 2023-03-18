@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "SF Pro Display", sans-serif;
+    background-color: #00000094;
+    overflow-X: hidden;
+  }
+
+.main{
+    position: relative;
+    top: 6vh;
+    left: 0;
+    right: 0;
+    background-color: #FFFFFF;
+
+}
+
+.iphone{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fafafa;
+}
+.space0{
+    height: 2vh;
+}
+.p2{
+    display: flex;
+    color: #0066cc;
+}
+.img{
+    height: 48vh;
+    
+}
+.second{
+    background-color: #000;
+    height: 544px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.iphone14{
+    color: #FFFFFF;
+}
+.img2{
+    height: 70vh;
+    width: 40%;
+    
+}
+.space1{
+    height: 2vh;
+}
+.third{
+    background-color: #0b002b;
+    height: 544px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img3{
+    height: 48vh;
+    
+}
+.gift{
+    color: #FFFFFF;
+}
+.p3{
+    color: #0066cc;
+}
+.space2{
+    height: 2vh;
+}
+.fourth{
+    height: 544px;
+    display: flex;
+    flex-direction: row;
+}
+.ipad{
+    background-color: #FFFFFF;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img4{
+    height: 48vh;
+    margin-top: 11.5%;
+}
+.airpod{
+    background-color: #000;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pro{
+    color: #FFFFFF;
+    }
+.img5{
+    margin-top: 11.5%;
+    height: 60vh;
+    width: 45vw;
+}
+.space3{
+    height: 1vh;
+}
+.fifth{
+    height: 544px;
+    display: flex;
+    flex-direction: row;
+}
+.watch {
+    background-color: #000;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.serie8{
+    color: #FFFFFF;
+}
+.h{
+    color: brown;
+}
+.img6{
+    height: 60vh;
+    margin-top: 5%;
+}
+.watch2{
+    background-color: #FFFFFF;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.h2{
+    color: #fd6a13;
+}
+.img7{
+    height: 60vh;
+    width: 48vw;
+    margin-top: 8%;
+}
+.space4{
+    height: 1vh;
+}
+.sixth{
+    height: 544px;
+    display: flex;
+    flex-direction: row;
+}
+.mac{
+    background-color: #FFFFFF;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img8{
+    height: 50vh;
+    margin-top: 5%;
+}
+.ipadpro{
+    background-color: #000;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.padpro{
+    color: #FFFFFF;
+}
+.img9{
+    height: 50vh;
+    margin-top: 8%;
+}
+.space5{
+    height: 1vh;
+}
+#movies{
+    height: 544px;
+    display: flex;
+}
+.space6{
+    height: 4vh;
+}
+.last{
+    background-color: #F5F5F7;
+    height: 1100px;
+}
+.p{
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: #6e6e73;
+    font-size: 12px;
+    font-style: light;
+    padding: 10px;
+}
+.a1{
+    color: #424245;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.links li{
+    list-style: none;
+    padding-top: 1%;
+
+}
+.ul{
+    display: flex;
+    flex-direction: column;
+}
+.a{
+    text-decoration: none;
+    color: #424245;
+    font-style: light;
+}
+.h1{
+    font-size: medium;
+}
+.space7{
+    height: 4vh;
+}
+.end{
+    color: #424245;
+    font-style: light;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 15%;
+    
+}
+.a2{
+    color: #0066cc;
+}
+.endl{
+    display: flex;
+    justify-content: left;
+}
+.ul1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+
+}
+.ul1 li{
+    list-style: none;
+    margin: 5px;
+}
