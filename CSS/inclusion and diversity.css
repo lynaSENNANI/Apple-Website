@@ -11,7 +11,7 @@ body {
 .bloc1{
     width: 100vw;
     height: 100vh;
-   background-image: url(images/bloc1\ diversity.jpg);
+   background-image: url(../Images/inclusion/bloc1\ diversity.webp);
    background-position: center;
    background-repeat: no-repeat;
 }
@@ -29,7 +29,7 @@ body {
 .bloc2{
     width: 100vw;
     height: 100vh;
-    background-image:url(images/backgroundimage\ bloc2\ incdivpg.jpg) ;
+    background-image:url( ../Images/inclusion/ bloc2\ incdivpg.webp) ;
     text-align: center;
     padding-top: 5%;
     color: #FFFFFF;
@@ -77,7 +77,7 @@ body {
 .bloc4p2{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc4\ pic.png);
+    background-image: url(../Images/inclusion/ bloc4\ pic.webp);
     border-radius: 5px;
     margin-left: 1.5%;
     margin-right: 1.5% ;
@@ -115,7 +115,7 @@ body {
 .bloc5p1{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc5\ pic.png);
+    background-image: url(../Images/inclusion/ bloc5\ pic.webp);
     border-radius: 5px;
     margin-left: 1.5%;
     margin-right: 1.5% ;
@@ -165,7 +165,7 @@ body {
 .bloc6p2{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc6\ pic.png);
+    background-image: url(../Images/inclusion/ bloc6\ pic.webp);
     border-radius: 5px;
     margin-left: 1.5%;
     margin-right: 1.5% ;
@@ -186,7 +186,7 @@ body {
 .bloc7p1{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc7\ pic.png);
+    background-image: url(../Images/inclusion/ bloc7\ pic.webp);
     border-radius: 5px;
     margin-left: 1.5%;
     background-repeat: no-repeat;
@@ -227,7 +227,7 @@ body {
 .bloc8p2{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc8\ pic.png);
+    background-image: url(../Images/inclusion/ bloc8\ pic.webp);
     border-radius: 5px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -253,7 +253,7 @@ body {
 .bloc9p1{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc9\ pic.png );
+    background-image: url(../Images/inclusion/ bloc9\ pic.webp );
     border-radius: 5px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -286,7 +286,7 @@ body {
 .bloc10p2{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc10\ pic.png);
+    background-image: url(../Images/inclusion/ bloc10\ pic.webp);
     border-radius: 5px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -328,7 +328,7 @@ body {
 .bloc11p1{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc11\ pic.png );
+    background-image: url(../Images/inclusion/ bloc11\ pic.webp);
     border-radius: 5px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -381,7 +381,7 @@ body {
 .bloc12p2{
     width: 48%;
     height: 98%;
-    background-image: url(images/bloc12\ pic.png );
+    background-image: url(../Images/inclusion/ bloc12\ pic.webp);
     border-radius: 5px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -603,7 +603,7 @@ body {
     background-color: #FFFFFF;
 }
 .fp1{
-    background-image: url(images/first\ inclu\ and\ diverpg.jpg);
+    background-image: url(../Images/inclusion/first\ inclu\ and\ diverpg.webp);
     width: 100%;
     height: 50%;
     border-radius: 20px;
@@ -614,7 +614,7 @@ body {
     margin-top: 3%;
 }
 .sp1{
-    background-image: url(images/first\ inclu\ and\ diverpg.jpg);
+    background-image: url(../Images/inclusion/first\ inclu\ and\ diverpg.webp);
     width: 100%;
     height: 50%;
     border-radius: 20px;
